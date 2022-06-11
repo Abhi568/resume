@@ -1,5 +1,5 @@
 # resume
 
-https://abhi568.github.io/resume/aboutMe
+https://abhi568.github.io/resume/
 
 Under development
